@@ -1,0 +1,14 @@
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\bin\Debug\net9.0\ConsumerUsersJsonPlaceHolder.exe
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\bin\Debug\net9.0\ConsumerUsersJsonPlaceHolder.deps.json
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\bin\Debug\net9.0\ConsumerUsersJsonPlaceHolder.runtimeconfig.json
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\bin\Debug\net9.0\ConsumerUsersJsonPlaceHolder.dll
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\bin\Debug\net9.0\ConsumerUsersJsonPlaceHolder.pdb
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\obj\Debug\net9.0\ConsumerUsersJsonPlaceHolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\obj\Debug\net9.0\ConsumerUsersJsonPlaceHolder.AssemblyInfoInputs.cache
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\obj\Debug\net9.0\ConsumerUsersJsonPlaceHolder.AssemblyInfo.cs
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\obj\Debug\net9.0\ConsumerUsersJsonPlaceHolder.csproj.CoreCompileInputs.cache
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\obj\Debug\net9.0\ConsumerUsersJsonPlaceHolder.dll
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\obj\Debug\net9.0\refint\ConsumerUsersJsonPlaceHolder.dll
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\obj\Debug\net9.0\ConsumerUsersJsonPlaceHolder.pdb
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\obj\Debug\net9.0\ConsumerUsersJsonPlaceHolder.genruntimeconfig.cache
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerUsersJsonPlaceHolder\ConsumerUsersJsonPlaceHolder\obj\Debug\net9.0\ref\ConsumerUsersJsonPlaceHolder.dll
